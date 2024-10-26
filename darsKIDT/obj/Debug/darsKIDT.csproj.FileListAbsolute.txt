@@ -1,0 +1,8 @@
+D:\VisualC++\darsKIDT\darsKIDT\bin\Debug\darsKIDT.exe.config
+D:\VisualC++\darsKIDT\darsKIDT\bin\Debug\darsKIDT.exe
+D:\VisualC++\darsKIDT\darsKIDT\bin\Debug\darsKIDT.pdb
+D:\VisualC++\darsKIDT\darsKIDT\obj\Debug\darsKIDT.csproj.AssemblyReference.cache
+D:\VisualC++\darsKIDT\darsKIDT\obj\Debug\darsKIDT.csproj.SuggestedBindingRedirects.cache
+D:\VisualC++\darsKIDT\darsKIDT\obj\Debug\darsKIDT.csproj.CoreCompileInputs.cache
+D:\VisualC++\darsKIDT\darsKIDT\obj\Debug\darsKIDT.exe
+D:\VisualC++\darsKIDT\darsKIDT\obj\Debug\darsKIDT.pdb
