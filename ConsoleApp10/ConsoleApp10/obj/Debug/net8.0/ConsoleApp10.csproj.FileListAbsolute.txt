@@ -1,0 +1,14 @@
+D:\C#Projects\ConsoleApp10\ConsoleApp10\bin\Debug\net8.0\ConsoleApp10.exe
+D:\C#Projects\ConsoleApp10\ConsoleApp10\bin\Debug\net8.0\ConsoleApp10.deps.json
+D:\C#Projects\ConsoleApp10\ConsoleApp10\bin\Debug\net8.0\ConsoleApp10.runtimeconfig.json
+D:\C#Projects\ConsoleApp10\ConsoleApp10\bin\Debug\net8.0\ConsoleApp10.dll
+D:\C#Projects\ConsoleApp10\ConsoleApp10\bin\Debug\net8.0\ConsoleApp10.pdb
+D:\C#Projects\ConsoleApp10\ConsoleApp10\obj\Debug\net8.0\ConsoleApp10.GeneratedMSBuildEditorConfig.editorconfig
+D:\C#Projects\ConsoleApp10\ConsoleApp10\obj\Debug\net8.0\ConsoleApp10.AssemblyInfoInputs.cache
+D:\C#Projects\ConsoleApp10\ConsoleApp10\obj\Debug\net8.0\ConsoleApp10.AssemblyInfo.cs
+D:\C#Projects\ConsoleApp10\ConsoleApp10\obj\Debug\net8.0\ConsoleApp10.csproj.CoreCompileInputs.cache
+D:\C#Projects\ConsoleApp10\ConsoleApp10\obj\Debug\net8.0\ConsoleApp10.dll
+D:\C#Projects\ConsoleApp10\ConsoleApp10\obj\Debug\net8.0\refint\ConsoleApp10.dll
+D:\C#Projects\ConsoleApp10\ConsoleApp10\obj\Debug\net8.0\ConsoleApp10.pdb
+D:\C#Projects\ConsoleApp10\ConsoleApp10\obj\Debug\net8.0\ConsoleApp10.genruntimeconfig.cache
+D:\C#Projects\ConsoleApp10\ConsoleApp10\obj\Debug\net8.0\ref\ConsoleApp10.dll
